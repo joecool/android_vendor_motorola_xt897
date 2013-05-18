@@ -24,7 +24,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/motorola/xt897/proprietary/bin/ap_gain.bin:system/bin/ap_gain.bin \
     vendor/motorola/xt897/proprietary/bin/ap_gain_mmul.bin:system/bin/ap_gain_mmul.bin \
-    vendor/motorola/xt897/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/motorola/xt897/proprietary/bin/batch:system/bin/batch \
     vendor/motorola/xt897/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/motorola/xt897/proprietary/bin/btnvtool:system/bin/btnvtool \
@@ -85,7 +84,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xt897/proprietary/lib/libbabysit.so:system/lib/libbabysit.so \
     vendor/motorola/xt897/proprietary/lib/libbson.so:system/lib/libbson.so \
     vendor/motorola/xt897/proprietary/lib/libbt-aptx-4.0.4.so:system/lib/libbt-aptx-4.0.4.so \
-    vendor/motorola/xt897/proprietary/lib/libcaps.so:system/lib/libcaps.so \
     vendor/motorola/xt897/proprietary/lib/libcneapiclient.so:system/lib/libcneapiclient.so \
     vendor/motorola/xt897/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/motorola/xt897/proprietary/lib/libcneqmiutils.so:system/lib/libcneqmiutils.so \
@@ -136,8 +134,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/xt897/proprietary/lib/libOmxQcelp13Dec.so:system/lib/libOmxQcelp13Dec.so \
     vendor/motorola/xt897/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/motorola/xt897/proprietary/lib/libopenssl-smime.so:system/lib/libopenssl-smime.so \
-    vendor/motorola/xt897/proprietary/lib/libpanorama_jni.so:system/lib/libpanorama_jni.so \
-    vendor/motorola/xt897/proprietary/lib/libpanorama.so:system/lib/libpanorama.so \
     vendor/motorola/xt897/proprietary/lib/libpkip.so:system/lib/libpkip.so \
     vendor/motorola/xt897/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/motorola/xt897/proprietary/lib/libqdi.so:system/lib/libqdi.so \
